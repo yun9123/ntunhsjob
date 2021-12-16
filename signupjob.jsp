@@ -10,6 +10,7 @@
 	Statement smt= con.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
 	String memberid =request.getParameter("memberid");
 	String memberpwd =request.getParameter("memberpwd");
+	//回家把資料庫insert欄位填上去
 	//String sql;
 	//sql="INSERT INTO member VALUES('"+memberid+"','"+memberpwd+"')";
 	smt.execute("INSERT INTO member (memberid, memberpwd) VALUES('"+memberid+"','"+memberpwd+"')");
