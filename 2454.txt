@@ -1,6 +1,7 @@
 2434540532
 574867785
 newwww
+0000
 <<<<<<< Updated upstream
 WHAT'S UP 
 =======
