@@ -1,4 +1,9 @@
 2434540532
 574867785
 newwww
+<<<<<<< Updated upstream
 WHAT'S UP 
+=======
+12333
+
+>>>>>>> Stashed changes
