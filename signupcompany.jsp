@@ -4,7 +4,7 @@
 <html>
 <head><title>Sign Up</title></head>
 <body>
-<form action="sign.jsp" method="get" style="border:1px solid #ccc">
+<form action="41signup.jsp" method="get" style="border:1px solid #ccc">
   <div class="container">
     <h1>COMPANY</h1>
     <p>Please fill in this form to create an account.</p>
@@ -15,6 +15,8 @@
 
     <label for="memberpwd"><b>PASSWORD</b></label>
     <input type="text" placeholder="Enter Password" name="memberpwd" required>
+    
+    
     
     <label for="memberpwd"><b>company name</b></label>
     <input type="text" placeholder="Enter company" name="memberpwd" required>
